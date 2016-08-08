@@ -1,0 +1,27 @@
+_repo: Canada-under-British-Rule-1760-1900_12661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourinot, John George
+    alias: Bourinot, J. G. (John George)
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2056'
+    url: http://www.gutenberg.org/2009/agents/2056
+    wikipedia: http://en.wikipedia.org/wiki/John_George_Bourinot_(younger)
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History'
+- !lcc 'F1001'
+- GITenberg
+title: Canada under British Rule 1760-1900
+url: http://www.gutenberg.org/ebooks/12661
